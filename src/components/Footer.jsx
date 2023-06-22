@@ -6,7 +6,7 @@ import {
   FaInstagram,
   FaTwitterSquare,
 } from 'react-icons/fa';
-// import itech from '../assets/Group 620 (2).png'
+import itech from '../assets/Group 620 (2).png'
 
 const Footer = () => {
   return (
